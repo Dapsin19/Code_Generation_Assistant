@@ -1,0 +1,10 @@
+﻿Python Code Generation Prompt
+"Generate a clean, well-documented Python function that takes a list of numbers as input and returns a list of their squares. The function should handle empty lists and invalid inputs gracefully."
+JavaScript Code Generation Prompt
+"Generate a JavaScript function that calculates the factorial of a number. Ensure the code is efficient and includes clear comments."
+Error Handling and Optimization Prompt
+"Generate Python code that reads a text file, removes all blank lines, and saves the result in a new file. The code should be efficient and include clear comments."
+Clean and Efficient Code Prompt
+"Write a Python function that takes a list of strings and returns a list of their uppercase versions. The function should be optimized and well-documented."
+Data Processing Prompt
+"Generate a Python script that reads a CSV file, calculates the average of a specific column, and saves the result to a new file. Include clear error handling and documentation."
